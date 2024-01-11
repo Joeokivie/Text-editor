@@ -57,5 +57,8 @@ The Progressive Web Applications (PWA) Text Editor is available to users through
 # Link
 https://enigmatic-anchorage-52034-687f3412666f.herokuapp.com/
 
+# github repo
+[
+](https://github.com/Joeokivie/Text-editor)https://github.com/Joeokivie/Text-editor
 # license
 MIT
